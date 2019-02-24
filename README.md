@@ -1,5 +1,10 @@
 # QuizApp
 This is my Quiz app developed as one of the requirements of Google Africa Challenge Scholarship Challenge with Udacity in Android Basics track.
+
+## Screenshots
+![Screen](https://github.com/ShowYoungg/Baking_App/blob/master/Q1.png)
+![Screen](https://github.com/ShowYoungg/Baking_App/blob/master/Q2.png)
+
 #
 Some of the features of the app include but not limited to RadioButton, EditText, CheckBox, Buttons etc
 # Functionalities
